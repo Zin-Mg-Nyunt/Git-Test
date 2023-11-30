@@ -7,3 +7,7 @@ p{
 button{
     padding: 15px;
 }
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
