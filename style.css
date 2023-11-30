@@ -4,3 +4,7 @@ body{
 p{
     color: white;
 }
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
